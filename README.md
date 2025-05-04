@@ -3,10 +3,14 @@
 
 Welcome to my personal portfolio website — a digital space that reflects my skills, projects, and passion for tech. Designed to be clean, responsive, and informative.
 
+If you are wondering what the text in the middle means 
+just hover over it or leave your cursor over it 
+
+
 ---
 
 ## 🌐 Live Demo
-👉 
+👉 https://kartikk-git.github.io/my-portfolio/
 
 
 ---
