@@ -21,6 +21,7 @@ Welcome to my personal portfolio website — a digital space that reflects my sk
 
 ## 📂 Folder Structure
 📁 portfolio/
+
 ├── index.html
 
 ├── /assets
